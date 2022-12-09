@@ -14,6 +14,7 @@ public class Main {
         Loot kokos=new Loot(43,8,"kokos");
         Loot milk=new Loot(3876,9,"milk");
         Loot fish=new Loot(1,3,"fish");
+        Loot kish=new Loot(8,3,"kish");
         Loot ice=new Loot(35,3678,"ice");
         Loot ice2=new Loot(35,3678,"ice");
         Corz corz =new Corz();
