@@ -1,23 +1,27 @@
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Objects;
 import java.util.Set;
 
 public class Recept {
 
-    public Set<Loot> setR = new HashSet<>();
+    public HashSet<Loot> setR = new HashSet<>();
     public Set<Loot>setS=new HashSet<>();
+    public HashMap<Loot,Integer>recipt=new HashMap<>();
     int price;
     String name;
+    int count;
 
-    public Recept (int price,String name) {
+    public Recept (int price,String name,int count) {
     //    this.setR=setR;
         this.price=price;
         this.name=name;
+        this.count=count;
 
     }
-    public void add(Loot loot) throws Exception {
-        if (!setR.contains(loot)) {
-            setR.add(loot);
+    public void add(Loot loot, int count) throws Exception {
+        if (!recipt.containsKey(loot)) {
+            recipt.put(loot,count);
         } else {
             throw new RuntimeException(" такой продукт в рецепте  уже есть");
         }
@@ -56,5 +60,11 @@ public class Recept {
                 ", price=" + price +
                 ", name='" + name + '\'' +
                 '}';
+    }
+    public int  riceptCoast(Integer price,Integer count){
+        int allprice =0;
+        allprice=recipt.get(price)*count;
+        return  allprice;
+
     }
 }
