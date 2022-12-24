@@ -55,4 +55,7 @@ public class Loot {
     public int getCoutn() {
         return coutn;
     }
+
+    public float getWeight() {
+    }
 }
