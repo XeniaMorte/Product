@@ -6,37 +6,37 @@
       {
         "name": "Яблоки",
         "weight": 500,
-        "isWot": "г."
+        "meraIzmerenia": "г."
       },
       {
         "name": "куриное яйцо",
         "weight": 2,
-        "isWot": "шт."
+        "meraIzmerenia": "шт."
       },
       {
         "name": "ваниль",
         "weight": 2,
-        "isWot": "г."
+        "meraIzmerenia": "г."
       },
       {
         "name": "корица",
         "weight": 2,
-        "isWot": "г."
+        "meraIzmerenia": "г."
       },
       {
         "name": "куриное яйцо",
         "weight": 2,
-        "isWot": "шт."
+        "meraIzmerenia": "шт."
       },
       {
         "name": "пшеничная мука",
         "weight": 6,
-        "isWot": "ст.л."
+        "meraIzmerenia": "ст.л."
       },
       {
         "name": "сахар",
         "weight": 2,
-        "isWot": "ст.л."
+        "meraIzmerenia": "ст.л."
       }
     ],
     "steps": [
@@ -44,7 +44,7 @@
       "2. тщательно перемешайте.",
       "3. И еще",
       "4. Выложить на противень и выложить яблоки",
-      "5. В духовку на 40 мин",
+      "5. В духовку на 40 мин"
     ]
   },
   {
@@ -54,42 +54,42 @@
       {
         "name": "специи",
         "weight": 0,
-        "isWot": "по вкусу."
+        "meraIzmerenia": "по вкусу."
       },
       {
         "name": "консервированная фасоль",
         "weight": 400,
-        "isWot": "г."
+        "meraIzmerenia": "г."
       },
       {
         "name": "лимон",
         "weight": 1,
-        "isWot": "шт."
+        "meraIzmerenia": "шт."
       },
       {
         "name": "чесок",
         "weight": 2,
-        "isWot": "зубчика."
+        "meraIzmerenia": "зубчика."
       },
       {
         "name": "оливковое масло",
         "weight": 50,
-        "isWot": "мл."
+        "meraIzmerenia": "мл."
       },
       {
         "name": "руккола",
         "weight": 100,
-        "isWot": "г."
+        "meraIzmerenia": "г."
       },
       {
         "name": "творожный сыр",
         "weight": 200,
-        "isWot": "г."
+        "meraIzmerenia": "г."
       },
       {
         "name": "красный лук",
         "weight": 50,
-        "isWot": "г."
+        "meraIzmerenia": "г."
       }
     ],
     "steps": [
@@ -105,52 +105,52 @@
       {
         "name": "красная чечевица",
         "weight": 150,
-        "isWot": "г."
+        "meraIzmerenia": "г."
       },
       {
         "name": "репчатый лук",
         "weight": 1,
-        "isWot": "головка."
+        "meraIzmerenia": "головка."
       },
       {
         "name": "морковь",
         "weight": 1,
-        "isWot": "шт."
+        "meraIzmerenia": "шт."
       },
       {
         "name": "подсолнечное масло",
         "weight": 30,
-        "isWot": "мл."
+        "meraIzmerenia": "мл."
       },
       {
         "name": "сливочное масло",
         "weight": 15,
-        "isWot": "г."
+        "meraIzmerenia": "г."
       },
       {
         "name": "пшеничная мука",
         "weight": 30,
-        "isWot": "г."
+        "meraIzmerenia": "г."
       },
       {
         "name": "сливки 33%",
         "weight": 50,
-        "isWot": "мл."
+        "meraIzmerenia": "мл."
       },
       {
         "name": "специи",
         "weight": 0,
-        "isWot": "по вкусу."
+        "meraIzmerenia": "по вкусу."
       },
       {
         "name": "лимон",
         "weight": 0.5,
-        "isWot": "шт."
+        "meraIzmerenia": "шт."
       },
       {
         "name": "мята",
         "weight": 0,
-        "isWot": "по вкусу."
+        "meraIzmerenia": "по вкусу."
       }
     ],
     "steps": [
@@ -168,33 +168,28 @@
       {
         "name": "огурцы",
         "weight": 2,
-        "isWot": "шт."
+        "meraIzmerenia": "шт."
       },
       {
         "name": "клубника",
         "weight": 300,
-        "isWot": "г."
+        "meraIzmerenia": "г."
       },
       {
         "name": "киноа",
         "weight": 3,
-        "isWot": "ст.л."
+        "meraIzmerenia": "ст.л."
       },
       {
         "name": "лед",
         "weight": 3,
-        "isWot": "ст.л."
+        "meraIzmerenia": "ст.л."
       },
 
-      {
-        "name": "киноа",
-        "weight": 3,
-        "isWot": "ст.л."
-      }
     ],
     "steps": [
       "1. Все сложить",
-      "2. Взбить  5 минут.",
+      "2. Взбить  5 минут."
 
     ]
   }
